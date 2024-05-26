@@ -1,0 +1,14 @@
+{
+  "name": "student-management",
+  "version": "1.0.0",
+  "description": "student management system using OOP",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
