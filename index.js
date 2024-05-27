@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 class Student {
     static idCounter = 10000;
     name;
